@@ -1,0 +1,20 @@
+[
+  {
+    "Game": "Vanguard",
+    "WeaponType": "Assault Rifles",
+    "DatabaseWeaponType": "Assault",
+	"Database": "VGweaponsdata.json",
+  },
+  {
+    "Game": "Vanguard",
+    "WeaponType": "SMGS",
+    "DatabaseWeaponType": "SMG",
+	"Database": "VGweaponsdata.json",
+  },
+  {
+    "Game": "Vanguard",
+    "WeaponType": "Shotguns",
+    "DatabaseWeaponType": "SHOTGUN",
+	"Database": "VGweaponsdata.json",
+  }
+]
